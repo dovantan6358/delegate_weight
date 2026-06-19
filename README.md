@@ -22,10 +22,8 @@ Our vision is to make on-chain governance more participatory, more legitimate, a
 - **Network:** Stellar Testnet (Public)
 - **Scope:** community dApp — see `contracts/delegate_weight/src/lib.rs` for the full delegate_weight business logic.
 - **Functions exposed:** see `Key Features` above and the `pub fn` list in `lib.rs`.
-- **Contract ID:** `<to be deployed on Stellar Testnet>`
-- **Explorer template:** `https://stellar.expert/explorer/testnet/contract/...>`
-- **Screenshot of deployed contract on Stellar Expert:**
-  `_(Screenshot of the contract page on Stellar Expert will appear here after deploy.)_`
+- **Contract ID:** `CBSBSCKQMSOS2WRPGYODU36G36GT5Z2V6CMWCWP762HAWUKRBCYAG65E`
+- **Explorer template:** `https://stellar.expert/explorer/testnet/tx/d055b91c49db0137a7a224359eb1520965a0dcb0bd71d6b117dc2827b6a22766`
 
 
 ## Future Scope
